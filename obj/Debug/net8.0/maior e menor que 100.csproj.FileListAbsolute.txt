@@ -1,0 +1,14 @@
+C:\projetos C#\maior e menor que 100\bin\Debug\net8.0\maior e menor que 100.exe
+C:\projetos C#\maior e menor que 100\bin\Debug\net8.0\maior e menor que 100.deps.json
+C:\projetos C#\maior e menor que 100\bin\Debug\net8.0\maior e menor que 100.runtimeconfig.json
+C:\projetos C#\maior e menor que 100\bin\Debug\net8.0\maior e menor que 100.dll
+C:\projetos C#\maior e menor que 100\bin\Debug\net8.0\maior e menor que 100.pdb
+C:\projetos C#\maior e menor que 100\obj\Debug\net8.0\maior e menor que 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos C#\maior e menor que 100\obj\Debug\net8.0\maior e menor que 100.AssemblyInfoInputs.cache
+C:\projetos C#\maior e menor que 100\obj\Debug\net8.0\maior e menor que 100.AssemblyInfo.cs
+C:\projetos C#\maior e menor que 100\obj\Debug\net8.0\maior e menor que 100.csproj.CoreCompileInputs.cache
+C:\projetos C#\maior e menor que 100\obj\Debug\net8.0\maior e menor que 100.dll
+C:\projetos C#\maior e menor que 100\obj\Debug\net8.0\refint\maior e menor que 100.dll
+C:\projetos C#\maior e menor que 100\obj\Debug\net8.0\maior e menor que 100.pdb
+C:\projetos C#\maior e menor que 100\obj\Debug\net8.0\maior e menor que 100.genruntimeconfig.cache
+C:\projetos C#\maior e menor que 100\obj\Debug\net8.0\ref\maior e menor que 100.dll
